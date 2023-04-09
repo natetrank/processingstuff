@@ -1,8 +1,8 @@
-package org.example;
+package org.src;
 
 import processing.core.PApplet;
 
-import static org.example.Grid.newGrid;
+import static org.src.Grid.newGrid;
 
 public class PilotPerlinGrid extends PApplet {
 
@@ -94,6 +94,6 @@ public class PilotPerlinGrid extends PApplet {
   }
 
   public static void main(String[] args) {
-    PApplet.main("org.example.PilotPerlinGrid");
+    PApplet.main("org.src.PilotPerlinGrid");
   }
 }

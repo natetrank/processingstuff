@@ -1,4 +1,4 @@
-package org.example;
+package org.src;
 
 import processing.core.PApplet;
 
@@ -88,6 +88,6 @@ public class PilotPerlinGridWithLines extends PApplet {
   }
 
   public static void main(String[] args) {
-    PApplet.main("org.example.PilotPerlinGridWithLines");
+    PApplet.main("org.src.PilotPerlinGridWithLines");
   }
 }
